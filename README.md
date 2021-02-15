@@ -33,10 +33,15 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjohnny93%2Fhit-counter&count_bg=%23C77DFF&title_bg=%23848484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
-
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjohnny93&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **tjohnny93/tjohnny93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
