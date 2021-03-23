@@ -41,7 +41,7 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
 
 <p align="center">
 
