@@ -33,7 +33,7 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 <p align="center" align="right">
     <a target="_blank" href="https://www.linkedin.com/in/tjohnny93/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
 <!--     <a target="_blank" target="_blank"href="소셜주소"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp; -->
-  <a target="_blank" href="mailto:tjohnny93@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:tjohnny93@gmail.com?subject=Hello%20Johnny,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
   
 <p align="center">
