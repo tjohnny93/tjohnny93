@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Johnny%20Tae&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Johnny%20Tae&fontSize=90)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
@@ -19,8 +19,15 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>&nbsp;&nbsp;
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>&nbsp;&nbsp;
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" height="25"/>&nbsp;&nbsp;
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" height="25"/>&nbsp;&nbsp;
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>&nbsp;&nbsp;
+</p>
+
+<h3 align="center">••• currently learning •••</h3>
+
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
 </p>
 
 <h3 align="center">•••</h3>
@@ -41,13 +48,13 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 </p>
 
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
 
 <p align="center">
 
   ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjohnny93&show_icons=true&theme=synthwave)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93&layout=compact)](https://github.com/tjohnny93/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93&layout=compact&langs_count=6)](https://github.com/tjohnny93/github-readme-stats)
 
 </p>
 
