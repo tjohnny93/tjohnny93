@@ -52,10 +52,9 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 
 <p align="center">
 
-  ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjohnny93&show_icons=true&theme=synthwave)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93&layout=compact&langs_count=6)](https://github.com/tjohnny93/github-readme-stats)
-
+  [![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjohnny93&show_icons=true&theme=synthwave)](#)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93&layout=compact&langs_count=6)](#)
+  
 </p>
 
 
