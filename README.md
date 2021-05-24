@@ -27,7 +27,8 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 <h3 align="center">••• currently learning •••</h3>
 
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>&nbsp;&nbsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D" height="25"/>
 </p>
 
 <h3 align="center">•••</h3>
