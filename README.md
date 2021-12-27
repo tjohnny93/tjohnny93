@@ -7,6 +7,7 @@ I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>&nbsp;&nbsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%green" height="25"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" height="25"/>&nbsp;&nbsp;
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white" height="25"/>&nbsp;&nbsp;
