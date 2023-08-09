@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Johnny%20Tae&fontSize=90)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Johnny Tae, a 👶🏻 Front-end developer. 🌱 <br>
+I'm <b>Johnny Tae</b>, a Front-end developer. 🌱 <br>
 </p>
 
 <p align="center">
