@@ -24,8 +24,6 @@ I'm <b>Johnny Tae</b>, a Front-end developer. 🌱 <br>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>&nbsp;&nbsp;
 </p>
 
-<h3 align="center">••• currently learning •••</h3>
-
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>&nbsp;&nbsp;
   <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%23007ACC.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>&nbsp;&nbsp;
@@ -51,12 +49,14 @@ I'm <b>Johnny Tae</b>, a Front-end developer. 🌱 <br>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90) -->
 
-<p align="center">
+<!-- <p align="center">
 
   [![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjohnny93&show_icons=true&theme=synthwave)](#)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnny93&layout=compact&langs_count=6)](#)
   
 </p>
+
+-->
 
 
 
